@@ -24,7 +24,8 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: G.SANJAY
 RegisterNumber:  212224230243
 */
-```PY
+```
+```
 import pandas as pd
 import numpy as np
 data=pd.read_csv("C:\\Users\\admin\\Downloads\\Placement_Data.csv")
